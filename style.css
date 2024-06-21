@@ -1,0 +1,95 @@
+img
+{
+    position: absolute;
+    color: white;
+    
+    top: 20px;
+    left: 70px;
+}
+.box
+{
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+    position: sticky;
+    border: 0px solid;
+   
+}
+.box2
+{
+    position: absolute;
+    top: 35px;
+    left: 500px;
+    color: white;
+    font-size: 20px;
+    border: 0px solid;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px;
+}
+.text:hover
+{
+    background-color: rgb(214, 165, 3);
+}
+.box3
+{
+    position: absolute;
+    top: 35px;
+    left: 600px;
+    color: white;
+    font-size: 20px;
+    border: 0px solid;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px;
+}
+.box4
+{
+    position: absolute;
+    top: 35px;
+    left:735px;
+    color: white;
+    font-size: 20px;
+    border: 0px solid;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px;
+}
+.box5
+{
+    position: absolute;
+    top: 35px;
+    left:915px;
+    color: white;
+    font-size: 20px;
+    border: 0px solid;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px;
+}
+.box6
+{
+    position: absolute;
+    top: 35px;
+    left:1100px;
+    color: white;
+    font-size: 20px;
+    border: 0px solid;
+    border-radius: 12px 12px 12px 12px;
+    padding: 10px;
+    background-color: red;
+}
+.box7
+{
+    background-color: blue;
+}
+.box1
+{
+    height: 600px;
+    width: 100%;
+    background-color: blue;
+    border-radius: 0px 0px 150px 150px;
+}
+.box7 img
+{
+    top: 170px;
+    left: 850px;
+    position: absolute;
+}
+
